@@ -1,1 +1,0 @@
-{"name":"drax-stremio-he-v054-fixed-search","version": "0.5.5","main":"addon.js","scripts":{"start":"node addon.js"},"dependencies":{}}
